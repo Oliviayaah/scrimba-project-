@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "Main",
+  "scripts": {
+    "start": "node index.js",
+    "test": "\"echo /\"Error: no test specified/\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "olivia mccaster"
+  },
+  "keywords": [
+    "backend", "key"
+  ],
+  "author": "olivia mccaster",
+  "license": "MIT"
+}
